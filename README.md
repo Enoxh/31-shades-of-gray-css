@@ -1,2 +1,2 @@
-# 33-shades-of-gray-css
-A CSS stylesheet with 32 hex values for gray.
+# 31-shades-of-gray-css
+A CSS stylesheet with 31 hex values for gray.
